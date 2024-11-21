@@ -1,4 +1,4 @@
-# Event Management Mobile Application using PostgreSQL for Philippine Association of Practitioners of Student Affairs and Services (PAPSAS, Inc.)
+# Event Management Mobile Application using PostgreSQL for Philippine Association of Practitioners of Student Affairs and Services (PAPSAS, Inc.) (USER INTERFACE)
 
 The proposed project aims to address these challenges by developing a mobile application that will allow the PAPSAS, Inc. to gather data and provide latest information to its members by notifying them of the organization’s latest and upcoming events, achievements, and decisions. This way, the organization can achieve greater flexibility, and control over its data. This shift will enable the organization to effectively disseminate information to its members, streamline organizational process, and ensure up-to-date information.
 
